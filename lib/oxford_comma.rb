@@ -6,5 +6,5 @@ array.join(" and ")
   elsif 2 < array.length
 
   end
-
+array.join(" and ")
  end
